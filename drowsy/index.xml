@@ -1,9 +1,0 @@
-<INDEX REVISION="01.00.00">
-  <DEVICE ID="0x0950" PRODUCTNAME="Drowsy">
-    <HARDWARE REVISION="01.00.00">
-      <RELEASE REVISION="2.1.11.0" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy/" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl">
-            <IMAGE SUBID="0" LENGTH="49152" CRC="0X590356AC" FILENAME="Drowsy-2.1.11.0.bin" NOFORCE="1" REVISION="2.1.11.0"/>
-      </RELEASE>
-    </HARDWARE>
-  </DEVICE>
-</INDEX>
