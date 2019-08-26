@@ -1,43 +1,43 @@
 <INDEX REVISION="01.00.00">
   <DEVICE ID="0x0952" PRODUCTNAME="Drowsy" ESTIMATED_UPDATE_TIME="1">
     <HARDWARE REVISION="01.00.00">
-      <RELEASE REVISION="0.19.05.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.05.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="59516" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.05.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.05.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.06.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.06.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="59516" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.06.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.06.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.07.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.07.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="59516" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.07.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.07.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.09.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.09.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="59516" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.09.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.09.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.11.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.11.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="59516" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.11.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.11.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.14.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.14.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="59516" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.14.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.14.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.15.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.15.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="64872" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.15.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.15.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.18.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.18.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="64944" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.18.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.18.01"/>
       </RELEASE>
-      <RELEASE REVISION="0.19.19.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="0.19.19.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="65004" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T0.19.19.01_Bose-format.dfu" NOFORCE="1" REVISION="0.19.19.01"/>
       </RELEASE>
-	    <RELEASE REVISION="1.00.00.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="1.00.00.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="65004" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_V1.00.00.00_Bose-format.dfu" NOFORCE="1" REVISION="1.00.00.00"/>
       </RELEASE>
-      <RELEASE REVISION="1.00.11.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="1.00.11.01" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="65544" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_T1.00.11.01_Bose-format.dfu" NOFORCE="1" REVISION="1.00.11.01"/>
       </RELEASE>
-	    <RELEASE REVISION="1.01.00.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="1.01.00.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="65544" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_V1.01.00.00_Bose-format.dfu" NOFORCE="1" REVISION="1.01.00.00"/>
       </RELEASE>
-      <RELEASE REVISION="2.00.00.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/eb/master/drowsy_charger/" LANGUAGES="en-us">
+      <RELEASE REVISION="2.00.00.00" HTTPHOST="raw.githubusercontent.com" URLPATH="/bosefirmware/eb/master/drowsy_charger/" LANGUAGES="en-us">
         <IMAGE SUBID="0" LENGTH="56248" CRC="0XFFFFFFFF" FILENAME="BoseDrowsy_ChargingCase_V2.00.00.00_Bose-format.dfu" NOFORCE="1" REVISION="2.00.00.00"/>
       </RELEASE>
     </HARDWARE>
